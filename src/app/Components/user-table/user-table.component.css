@@ -1,0 +1,25 @@
+.head{
+    color: #909497;
+    @apply
+    font-bold
+    p-3
+}
+input{
+    @apply
+    m-1
+    p-1
+    bg-[#F8F9F9]
+    outline-none
+    
+    w-full
+}
+
+.text{
+    @apply
+    font-semibold text-slate-700
+}
+
+.row{
+    @apply
+    p-3
+}
